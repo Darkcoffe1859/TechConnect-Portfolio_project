@@ -1,0 +1,77 @@
+
+/* Reset default browser styles */
+body, h1, h2, h3, p {
+	  margin: 0;
+	  padding: 0;
+    }
+
+/* Apply styles to entire page */
+    body {
+	    font-family: Arial, sans-serif;
+	    background-color: #f0f0f0;
+	}
+
+	/* Header styles */
+	.header {
+		background-color: #007bff;
+		  color: #fff;
+		  padding: 10px;
+	      }
+
+	      /* Container styles */
+	      .container {
+		        max-width: 1200px;
+			margin: 0 auto;
+			padding: 20px;
+		    }
+
+		    /* Button styles */
+		    .button {
+			    display: inline-block;
+			    background-color: #007bff;
+			    color: #fff;
+			    padding: 10px 20px;
+			    border: none;
+			    cursor: pointer;
+		    }
+
+				/* Apply styles to specific elements */
+				h1 {
+					font-size: 24px;
+					margin-bottom: 20px;
+				}
+				p {
+					font-size: 16px;
+					line-height: 1.5;
+					}
+
+					/* Style links */
+					a {
+						color: #007bff;
+						text-decoration: none;
+						transition: color 0.3s;
+					      }
+					      
+					      a:hover {
+						      color: #0056b3;
+						}
+
+						/* Apply styles to form elements */
+						input[type="text"],
+						input[type="email"],
+						input[type="password"],
+						textarea {
+							width: 100%;
+							padding: 10px;
+							margin-bottom: 10px;
+							border: 1px solid #ccc;
+						        border-radius: 4px;
+						}
+
+							  /* Responsive styles for smaller screens */
+							  @media (max-width: 768px) {
+							  .container {
+								  padding: 10px;
+							  }
+						  }
+
