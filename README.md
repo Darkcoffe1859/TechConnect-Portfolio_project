@@ -1,6 +1,6 @@
 # TechConnect Portfolio Project
 
-![TechConnect Logo](https://www.canva.com/design/DAFzuBngS-U/unpHvDmFz_CK5APMy9mRCg/edit?utm_content=DAFzuBngS-U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <!-- Replace with an actual image link if needed -->
+![TechConnect Logo](https://www.canva.com/design/DAFzuBngS-U/unpHvDmFz_CK5APMy9mRCg/edit?utm_content=DAFzuBngS-U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 TechConnect is a platform designed to connect software engineers with their new tech homes, helping them locate tech-related places and connect with other professionals in a new environment.
 
@@ -48,7 +48,7 @@ The project consists of two main components:
 Each component has its README with setup and usage instructions.
 
 ## Deployment
-The project's frontend is hosted on GitHub Pages. You can access it [here](link-to-the-deployed-frontend).
+The project's frontend is hosted on GitHub Pages. You can access it [here](https://darkcoffe1859.github.io/TechConnect-Portfolio_project/).
 
 The backend is hosted on a preferred platform
 
